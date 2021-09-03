@@ -37,9 +37,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ```markdown practice
-#New Changes Down Below
-##Second Header
-###Third Header
-```
+
+
+#Saravana's First CS193 Homework
+- My first favorite aspect of this class is that it's taught by students.
+- Second, I like how the class is structured, since it's very easy to contact the teachers.
+
 New line in this markdown!
 Click [here](https://youtube.com/) to go to youtube!
+```
